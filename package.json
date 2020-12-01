@@ -1,0 +1,29 @@
+{
+  "name": "call-external-api",
+  "version": "1.0.0",
+  "description": "learn how to call an external api using node js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "call",
+    "rest",
+    "martand",
+    "singh",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "Martand Singh (sniffer)",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/bigquery": "^5.0.0",
+    "express": "^4.17.1",
+    "jsforce": "^1.10.0",
+    "node-salesforce": "^0.8.0",
+    "request": "^2.88.2"
+  }
+}
