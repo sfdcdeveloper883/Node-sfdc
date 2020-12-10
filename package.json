@@ -22,10 +22,13 @@
   "dependencies": {
     "@google-cloud/bigquery": "^5.0.0",
     "cometd-nodejs-client": "^1.2.0",
+    "csvtojson": "^2.0.10",
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
     "jsforce": "^1.10.0",
     "nforce": "^1.12.2",
     "node-salesforce": "^0.8.0",
+    "pg": "^8.5.1",
     "request": "^2.88.2"
   }
 }
