@@ -21,8 +21,10 @@
   "license": "MIT",
   "dependencies": {
     "@google-cloud/bigquery": "^5.0.0",
+    "cometd-nodejs-client": "^1.2.0",
     "express": "^4.17.1",
     "jsforce": "^1.10.0",
+    "nforce": "^1.12.2",
     "node-salesforce": "^0.8.0",
     "request": "^2.88.2"
   }
