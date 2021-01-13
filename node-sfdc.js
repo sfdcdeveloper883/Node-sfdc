@@ -1,5 +1,5 @@
 /*var express = require( 'express' ); //Adding Expess
-var http = require( 'http' ); //Adding http
+var http = require( 'http' ); //Adding http module
 var jsforce = require( 'jsforce' ); //Adding JsForce
 var app = express();
 app.set( 'port', process.env.PORT || 3001 );
